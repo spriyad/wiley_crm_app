@@ -1,0 +1,9 @@
+todo.txt
+wileycrm_vue/node_modules
+wileycrm_vue/dist
+wileycrm_django/db.sqlite3
+wileycrm_django/*.pyc
+wileycrm_django/*/*.pyc
+wileycrm_django/*/*/*.pyc
+wileycrm_django/*/*/*/*.pyc
+environment_3_8_10
