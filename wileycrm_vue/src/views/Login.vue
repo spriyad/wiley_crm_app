@@ -81,7 +81,7 @@ export default {
 
             localStorage.setItem('token', token)
 
-            this.$router.push('/my-account')
+            this.$router.push('/dashboard/my-account')
 
           })
             .catch(error => {
